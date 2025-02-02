@@ -1,2 +1,2 @@
-fastapi
-uvicorn
+requests
+python-dotenv  # 環境変数を読み込む場合
